@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "author": "Brian Wang",
+      "title": "Ultraviolet Metalenses Mass Produced. Will Enable Future AI Chips | NextBigFuture.com",
+      "description": "Extreme Ultraviolet lithography for computer chips have been critical to letting us efficiently get better than 14 nanometer computer chips. Metalenses are",
+      "url": "https://www.nextbigfuture.com/2024/03/ultraviolet-metalenses-mass-produced-will-enable-future-ai-chips.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-1.11.17-PM.jpg",
+      "publishedAt": "2024-03-26T20:15:21Z",
+      "content": "Extreme Ultraviolet lithography for computer chips have been critical to letting us efficiently get better than 14 nanometer computer chips. Metalenses are 10,000 times thinner than regular lenses.\r\n… [+2820 chars]"
+    },
+    {
+      "source": {
+        "id": "national-geographic",
+        "name": "National Geographic"
+      },
+      "author": null,
+      "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
+      "description": "National Geographic presents In Conversation, a special podcast episode featuring explorer Tara Roberts, computer scientist Gloria Washington, and photographer Ruddy Roye. Through their dynamic work across maritime archeology, artificial intelligence, and pho…",
+      "url": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month.html",
+      "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/podcasts/Overheard/season5/bonusBHM/collage-3portraits2.jpg",
+      "publishedAt": "2021-02-17T14:37:22.7296515Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-sport-bible",
+        "name": "The Sport Bible"
+      },
+      "author": "Adnan Riaz",
+      "title": "Supercomputer Predicts The Champions League Winner For 2019-20 Season",
+      "description": "BT Sport's The Script predicted if Jurgen Klopp would lead Liverpool to their second consecutive Champions League trophy.",
+      "url": "http://www.thesportbible.com/football/news-supercomputer-predicts-the-champions-league-winner-for-2019-20-season-20190829",
+      "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/4120a9305d6766c411d9733bd6edb2f8.png",
+      "publishedAt": "2019-08-29T06:51:10Z",
+      "content": "Liverpool will fall short of successfully defending their Champions League crown, according to a supercomputer simulation.\r\nThe Reds became champions of Europe for a sixth time in June when they beat… [+1862 chars]"
+    }
+  ]
+}
+
